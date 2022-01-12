@@ -1,5 +1,5 @@
 # ignw_netops_github_lab
-#Favorite fruit
+#Favorite fruits
 - banana
 - apple
 - orange
